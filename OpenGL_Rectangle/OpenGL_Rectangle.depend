@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1545314108 source:c:\dev\opengl_rectangle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+

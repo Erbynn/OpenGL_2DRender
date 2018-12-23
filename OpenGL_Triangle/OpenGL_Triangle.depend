@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1545368888 source:c:\dev\opengl_triangle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+
